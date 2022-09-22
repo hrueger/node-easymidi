@@ -27,6 +27,6 @@
     "mocha": "^8.4.0"
   },
   "dependencies": {
-    "midi": "^2.0.0"
+    "@julusian/midi": "^3.0.0-2"
   }
 }
